@@ -1,4 +1,4 @@
-# sound_sensor_with_relay
+# clap_controlled_light.
 This project uses the sound sensor and the relay to control a higher voltage bulb, when you clap.
 
 #code explanation
